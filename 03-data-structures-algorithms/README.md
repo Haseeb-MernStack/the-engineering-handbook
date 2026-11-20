@@ -28,6 +28,14 @@ An engineer uses this material as a working vocabulary, not as a set of puzzles.
 | [Dynamic Programming and Greedy Algorithms](./dynamic-programming-and-greedy.md) | Optimal substructure, memoization, tabulation, exchange arguments and when greedy fails. |
 | [Choosing a Data Structure](./choosing-a-data-structure.md) | A method for matching access patterns to structures, with reference defaults. |
 
+## Check yourself
+
+| Resource | Use it to |
+| --- | --- |
+| [Self-Assessment](./self-assessment.md) | Find gaps with a checklist of observable skills. |
+| [Question Bank](./question-bank.md) | Practice interview and design-review questions, with model answers and red flags. |
+| [Cheat Sheet: Choosing a Database](../cheat-sheets/choosing-a-database.md) | Decide on a storage model from your access patterns. |
+
 ## Prerequisites
 
 - Comfort writing small programs in at least one language.
