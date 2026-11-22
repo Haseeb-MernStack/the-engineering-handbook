@@ -26,6 +26,13 @@ An engineer uses them to predict behavior rather than discover it by accident. W
 | [Error Handling](./error-handling.md) | Failure kinds, mechanisms, retries, timeouts and graceful degradation. |
 | [Clean Code and Refactoring](./clean-code-and-refactoring.md) | Naming, structure, smells and safe, incremental refactoring. |
 
+## Check yourself
+
+| Resource | Use it to |
+| --- | --- |
+| [Self-Assessment](./self-assessment.md) | Find gaps with a checklist of observable skills. |
+| [Question Bank](./question-bank.md) | Practice interview and design-review questions, with model answers and red flags. |
+
 ## Prerequisites
 
 - Comfort writing small programs in at least one language.
