@@ -24,6 +24,13 @@ These topics matter because they separate writing code from owning outcomes. A d
 | [Trade-offs and Decision Making](./trade-offs-and-decision-making.md) | Comparing options, recording decisions and handling reversibility. |
 | [Requirements and Estimation](./requirements-and-estimation.md) | Clarifying what to build, expressing uncertainty and sizing work. |
 
+## Check yourself
+
+| Resource | Use it to |
+| --- | --- |
+| [Self-Assessment](./self-assessment.md) | Find gaps with a checklist of observable skills. |
+| [Question Bank](./question-bank.md) | Practice interview and design-review questions, with model answers and red flags. |
+
 ## Prerequisites
 
 None. Basic familiarity with writing a small program in any language helps.
